@@ -3286,7 +3286,7 @@ input, select, textarea {
 	#intro {
 		color: #ffffff;
 		padding: 8rem 4rem 6rem 4rem ;
-		background-image: url("assets/css/marcia");
+		background-image: url("marcia.png");
 		background-size: cover;
 		background-position: center;
 		background-repeat: no-repeat;
