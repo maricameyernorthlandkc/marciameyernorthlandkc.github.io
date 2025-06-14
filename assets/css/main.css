@@ -4710,9 +4710,9 @@ input, select, textarea {
   #intro {
     min-height: 60vh;
     padding: 3rem 1rem 2rem 1rem;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center top;
+    background-size: contain!important;
+    background-repeat: no-repeat!important;
+    background-position: center top!important;
   }
 
   #intro h1 {
