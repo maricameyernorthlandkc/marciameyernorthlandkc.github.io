@@ -3331,17 +3331,6 @@ input, select, textarea {
 		min-height: 80vh;
 	}
 
-  #intro h1 {
-    font-size: 2rem;
-    margin-bottom: 0.5rem;
-  }
-
-  #intro p {
-    font-size: 1rem;
-    margin-top: 0;
-  }
-}
-
 		#intro input, #intro select, #intro textarea {
 			color: #ffffff;
 		}
