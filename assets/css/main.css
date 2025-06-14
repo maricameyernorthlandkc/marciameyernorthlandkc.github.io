@@ -3287,7 +3287,7 @@ input, select, textarea {
 
 /* Intro */
 
-	#intro {
+#intro {
 		color: #ffffff;
 		padding: 8rem 4rem 6rem 4rem ;
 		background-image: url("mimamarciameyer.png");
@@ -3318,7 +3318,7 @@ input, select, textarea {
 		cursor: default;
 		text-align: center;
 		z-index: 1;
-		min-height: 60vh;
+		min-height: 100vh;
 	}
 
 		#intro input, #intro select, #intro textarea {
