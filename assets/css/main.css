@@ -4708,6 +4708,25 @@ input, select, textarea {
 @media screen and (max-width: 768px) {
   #intro {
     background-position: center center;
-    background-size: cover;
+    background-size: contain;
+  }
+}
+@media screen and (max-width: 768px) {
+  #intro {
+    min-height: 60vh; /* or try 50vh, adjust as needed */
+    padding: 3rem 1rem 2rem 1rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center top;
+  }
+
+  #intro h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  #intro p {
+    font-size: 1rem;
+    margin-top: 0;
   }
 }
