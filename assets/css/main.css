@@ -3301,7 +3301,7 @@ input, select, textarea {
 		color: #ffffff;
 		padding: 8rem 4rem 6rem 4rem ;
 		background-image: url("mimamarciameyer.png");
-		background-size: cover;
+		background-size: contain;
 		background-position: center;
 		background-repeat: no-repeat;
 		-moz-align-items: center;
@@ -4712,7 +4712,7 @@ input, select, textarea {
     padding: 3rem 1rem 2rem 1rem;
     background-size: contain!important;
     background-repeat: no-repeat!important;
-    background-position: center center!important;
+    background-position: center top!important;
   }
 
   #intro h1 {
