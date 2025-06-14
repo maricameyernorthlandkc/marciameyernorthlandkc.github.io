@@ -3330,22 +3330,6 @@ input, select, textarea {
 		z-index: 1;
 		min-height: 80vh;
 	}
-#intro {
-  aspect-ratio: 5319 / 2896;
-  height: auto;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  padding: 0;
-}
-@media screen and (max-width: 768px) {
-  #intro {
-    min-height: 60vh;
-    padding: 3rem 1rem 2rem 1rem;
-    background-size: contain!important;
-    background-repeat: no-repeat!important;
-    background-position: center top!important;
-  }
 
   #intro h1 {
     font-size: 2rem;
