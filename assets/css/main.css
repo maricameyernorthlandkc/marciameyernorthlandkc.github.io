@@ -3328,7 +3328,7 @@ input, select, textarea {
 		cursor: default;
 		text-align: center;
 		z-index: 1;
-		min-height: 60vh;
+		min-height: 80vh;
 	}
 @media screen and (max-width: 768px) {
   #intro {
